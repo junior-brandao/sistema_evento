@@ -23,7 +23,7 @@ armazenar o dia e os horários de início de fim do bloco daquele dia). Para cad
 cadastrar seu nome e email.
 
 ## 2 - Modelo Conceitual: 
-![img.png](img.png)
+![img.png](src/main/java/com/eblj/sistema_evento/assets/img.png)
 
 ## 3 - Intância dos dados para seeding
 ![img.png](src/main/java/com/eblj/sistema_evento/assets/img2.png)
