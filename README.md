@@ -26,4 +26,4 @@ cadastrar seu nome e email.
 ![img.png](img.png)
 
 ## 3 - Intância dos dados para seeding
-![img_1.png](img_1.png)
+![img.png](src/main/java/com/eblj/sistema_evento/assets/img2.png)
